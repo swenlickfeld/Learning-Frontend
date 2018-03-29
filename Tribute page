@@ -1,0 +1,22 @@
+<div class="pageWidth text-center container-fluid">
+	<div>
+		<h1>Albert Einstein</h1>
+		<h5 class="font-italic">Theoretical physicist</h5>
+		<img class="img-responsive img-thumbnail" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Albert_Einstein_Head.jpg/800px-			Albert_Einstein_Head.jpg" alt="Portrait of Albert Einstein">
+		<p></p>
+	</div>
+	<h2> Notable scientific work:</h2>
+	<div>
+		<ul>
+			<li><b>Theory of relativity and E = mc²</b> - reconciles Maxwell's equations for electricity and magnetism with the laws of mechanics, by introducing major changes to mechanics close to the speed of light. This later became known as Einstein's special theory of relativity.</li>
+			<li style="list-style:none;">&nbsp;</li>
+			<li><b>Photons and energy quanta</b> -  Einstein proposed that light consists of localized particles</li>
+			<li style="list-style:none;">&nbsp;</li>
+			<li><b>Wormholes</b> - Wormhole, in physics, is a hypothetical feature of space and time continuum that is a path through the continuum itself.</li>
+		</ul>
+	</div>
+	<div>
+		<h3 class="font-weight-light font-italic">"Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world."</h3>
+		<p>Learn more about Einstein <a href="https://en.wikipedia.org/wiki/Albert_Einstein" target="_blank">here</a>.</p>	
+		</div>
+</div>
