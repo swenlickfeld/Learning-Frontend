@@ -20,3 +20,9 @@
 		<p>Learn more about Einstein <a href="https://en.wikipedia.org/wiki/Albert_Einstein" target="_blank">here</a>.</p>	
 		</div>
 </div>
+
+
+****CSS****
+    .pageWidth{
+        max-width: 705px;
+    }
